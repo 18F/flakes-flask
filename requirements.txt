@@ -1,0 +1,10 @@
+Flask==0.10.1
+Jinja2==2.7.3
+MarkupSafe==0.23
+PyExecJS==1.1.0
+WebOb==1.4
+Werkzeug==0.9.6
+bowerstatic==0.7
+itsdangerous==0.24
+webassets==0.10.1
+wsgiref==0.1.2
