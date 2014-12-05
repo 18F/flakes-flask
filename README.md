@@ -1,4 +1,4 @@
-# Starter Flask app using the Flakes front-end framework
+# Starter Flask app using the [Flakes](http://getflakes.com/) front-end framework
 
 ## Installation
 
